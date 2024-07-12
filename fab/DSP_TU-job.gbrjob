@@ -3,19 +3,19 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(6.0.9)"
+      "Version": "8.0.2"
     },
-    "CreationDate": "2023-05-29T16:16:24-07:00"
+    "CreationDate": "2024-05-30T20:46:21-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "DSP_TU",
       "GUID": "4453505f-5455-42e6-9b69-6361645f7063",
-      "Revision": "rev?"
+      "Revision": "B"
     },
     "Size": {
-      "X": 158.05,
-      "Y": 79.05
+      "X": 165.15,
+      "Y": 114.35
     },
     "LayerNumber": 4,
     "BoardThickness": 1.5311,
