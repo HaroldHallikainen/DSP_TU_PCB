@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "8.0.2"
     },
-    "CreationDate": "2024-05-30T20:46:21-07:00"
+    "CreationDate": "2024-12-21T13:17:58-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "DSP_TU",
       "GUID": "4453505f-5455-42e6-9b69-6361645f7063",
-      "Revision": "B"
+      "Revision": "C"
     },
     "Size": {
-      "X": 165.15,
-      "Y": 114.35
+      "X": 159.05,
+      "Y": 132.35
     },
     "LayerNumber": 4,
     "BoardThickness": 1.5311,
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.13,
-      "PadToTrack": 0.13,
+      "PadToPad": 0.15,
+      "PadToTrack": 0.15,
       "TrackToTrack": 0.15,
       "MinLineWidth": 0.25,
       "TrackToRegion": 0.508,
@@ -33,9 +33,10 @@
     },
     {
       "Layers": "Inner",
-      "PadToPad": 0.13,
-      "PadToTrack": 0.13,
+      "PadToPad": 0.15,
+      "PadToTrack": 0.15,
       "TrackToTrack": 0.15,
+      "MinLineWidth": 0.5,
       "TrackToRegion": 0.15,
       "RegionToRegion": 0.15
     }
